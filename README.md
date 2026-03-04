@@ -1,2 +1,2 @@
 # CadastroUsuario
-software criado para testar conhecimentos aprendidos de Java+Spring Boot, basicamente o programa irá poder criar usuarios, deletar e ter outros tipos de funçoes, estou usando o email como validação e aplicando outros metodos deixando-o mais completo
+Projeto pessoal em Java com Spring Boot implementado endpoints para operações CRUD, aplicação com regra de negócio e integração com banco de dados MySQL,modelagem de dados. Estruturação em 3 camadas seguindo as boas praticas e versionamento com Git e GitHub.
